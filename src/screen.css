@@ -1,0 +1,58 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+header, nav{
+  border: 2px solid gray;
+}
+aside{
+  border: 2px solid gray;
+  width: 120px;
+}
+
+form{
+  float:right;
+}
+ul{
+  list-style-type: none;
+  
+}
+
+.abc{
+  display: inline-block;
+  
+}
+.abc li{
+  padding: 0.7px;
+  align-content: initial;
+
+}
+.cba li{
+  padding: 5.5px;
+}
+
+.limit{
+  display: inline-block;
+  vertical-align: top;
+  width: 60%;
+}
+.imgup,.cba{
+   display: inline-block;
+   border: 2px solid gray;
+   
+ }
+ .post-img{
+   height: 100px;
+   padding: 5px;
+ }
+
+ .cba{
+   vertical-align: top;
+   padding: 10px;
+   width: 24.352%;
+ }
+ .fot{
+   border: 2px solid gray;
+ }
